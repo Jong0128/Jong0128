@@ -2,7 +2,7 @@
   <img align="left" alt="jonghun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/%EC%A2%85%ED%9B%88-%EC%9E%84-53aa24338/" target="_blank">
-  <img align="left" alt="jonghun's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br />
