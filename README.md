@@ -1,26 +1,41 @@
-<a href="https://instagram.com/lim._.0128" target="_blank">
-  <img align="left" alt="jonghun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/%EC%A2%85%ED%9B%88-%EC%9E%84-53aa24338/" target="_blank">
-  <img align="left" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jonghun%20Lim&fontSize=90" width="100%"/>
+  
+  <br/>
+  
+  <h3>Backend Developer | Computer Science Major</h3>
+  
+  <a href="https://instagram.com/lim._.0128" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%A2%85%ED%9B%88-%EC%9E%84-53aa24338/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jhlim00812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-<br />
+<br/>
 
-<h1 align="center">Hi 👋, I'm Jonghun Lim</h1>
-<h3 align="center">A developer writes code to live a life without regrets.</h3>
+## 🛠 Tech Stack
 
-<h5 align="center">👨‍💻 Backend Developer | 🎓 Computer Science Major | 🌐 Passionate about AI and Data Solutions</h5>
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<h5 align="center"> 📫 How to reach me jhlim00812@gmail.com </h5>
+### Backend & Database
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-## 💡 Key Projects
-- **LOGO SELECTORS**: Developed a community website for university students using React. Improved my problem-solving and teamwork skills by tackling responsive design challenges.
-- **Retinal OCT Image Classification**: Conducted a machine learning project using TensorFlow and ResNet-50, focusing on data preprocessing and hyperparameter tuning for optimal model performance.
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-## 🔧 Technologies & Tools
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AI & Infra
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
+<br/>
+<br/>
 
-## 🌱 Currently Learning
-I'm deepening my knowledge in cloud infrastructure and AI-driven data solutions to build efficient, scalable applications.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jong0128&show_icons=true&theme=gotham" alt="stat" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jong0128&layout=compact&theme=gotham" alt="top-langs" height="180"/>
+</div>
