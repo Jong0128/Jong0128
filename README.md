@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🎓 홍익대학교 컴퓨터공학과
+### 🎓 홍익대학교 컴퓨터공학과 4학년
   
 <br/>
 
@@ -16,17 +16,11 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Experience
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,spring,nodejs,react&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-  
-🌱 Currently learning **Spring Boot** & **Backend Development**
+**Selectstar** | Data Assistant (2025.01 ~ 2025.10)
 
 </div>
 
