@@ -27,5 +27,11 @@
 <br/>
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Jong0128&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 </div>
